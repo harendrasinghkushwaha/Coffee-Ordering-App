@@ -1,4 +1,4 @@
-package com.example.justjava;
+package com.example.Coffee;
 
 import android.content.Intent;
 import android.net.Uri;
@@ -10,6 +10,8 @@ import android.widget.TextView;
 import android.widget.Toast;
 //import java.text.NumberFormat;
 import androidx.appcompat.app.AppCompatActivity;
+
+import com.example.justjava.R;
 
 /*
  *This app displays an order form to order coffee.
